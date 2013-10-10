@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["adam@hawkins.io"]
   spec.description   = %q{Report sequel performance metrics to Harness}
   spec.summary       = %q{}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/ahawkins/harness-sequel"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
