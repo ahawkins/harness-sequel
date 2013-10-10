@@ -1,12 +1,12 @@
-# Harness::Varnish
+# Harness::Sequel
 
-TODO: Write a gem description
+Capture sequel's query performance and forward it to Harness
 
 ## Installation
 
 Add this line to your application's Gemfile:
 
-    gem 'harness-varnish'
+    gem 'harness-sequel'
 
 And then execute:
 
@@ -14,11 +14,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install harness-varnish
-
-## Usage
-
-TODO: Write usage instructions here
+    $ gem install harness-sequel
 
 ## Contributing
 
